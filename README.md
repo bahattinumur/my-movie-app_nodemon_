@@ -20,6 +20,8 @@
 
 - Nodemon
 
+- Vite
+
 <h2> Frameworks </h2>
 
 - Tailwind CSS
