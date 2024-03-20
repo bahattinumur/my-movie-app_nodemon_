@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "id": "213976be-9157-4daa-992b-5b93f68540a6",
+      "title": "The Wolf of Wall Street",
+      "year": "2013",
+      "genre": "Biography, Comedy, Crime",
+      "rating": "8.2"
+    },
+    {
+      "id": "131c8241-fcae-4425-94b7-e410fb285018",
+      "title": "Mission Impossible: Rouge Nation",
+      "year": "2015",
+      "genre": "Action, Adventure, Fantasy",
+      "rating": "7.9"
+    },
+    {
+      "title": "Spiderman",
+      "year": "2023",
+      "genre": "Action",
+      "rating": "8.7",
+      "id": "16395da0-7a20-4ebd-94a5-886cfd99566b"
+    },
+    {
+      "title": "Superman",
+      "year": "2021",
+      "genre": "Science-finction",
+      "rating": "9.0",
+      "id": "f22eba7a-bcdb-4d40-9a60-cc0d4b429d19"
+    },
+    {
+      "title": "The Godfather",
+      "year": "1972",
+      "genre": "Crime, Drama",
+      "rating": "9.2",
+      "id": "52e7fe32-015d-4f53-b22b-173628a6ef2b"
+    },
+    {
+      "title": "Inception",
+      "year": "2010",
+      "genre": "Action, Adventure, Sci-Fi",
+      "rating": "7.8",
+      "id": "511c06a2-1b20-4b4f-9c67-3f1d2db68a6b"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": "1994",
+      "genre": "Drama",
+      "rating": "9.3",
+      "id": "53d9a7f3-3993-431f-b86d-038865f21836"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": "2008",
+      "genre": "Action, Crime, Drama",
+      "rating": "9.0",
+      "id": "e304cb89-bf5d-4fa0-b087-0af3c2e86760"
+    }
+  ]
+}
